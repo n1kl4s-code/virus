@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    color-scheme: dark;
+    font-family: monospace;
+    background-size: 90% 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
